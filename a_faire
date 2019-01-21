@@ -1,0 +1,11 @@
+
+0.1 vidage apres ecriture en decimale
+0.1 remplace SAN par TIO avec vrai valeur
+0.2 garde que 10 adr pour onewire la 11eme (80-87) joelVVPP -> VV/PP version watercooling/version protocole
+0.2 passer en 19200
+0.2 alonge le temp avant ecriture
+0.2 alonge le temp entre relecture eeprom
+0.2 changer la version pour watercooling (0.7)
+0.2 remplacer la 11eme entree D7 par D2
+0.2 remplacer la 11eme sortie D8 par D17 (A3)
+
